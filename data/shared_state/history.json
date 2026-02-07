@@ -1,0 +1,38 @@
+[
+  {
+    "skill_name": "vercel-labs/skills/find-skills",
+    "analysis_date": "2026-02-06",
+    "source_url": "https://skills.sh/vercel-labs/skills/find-skills",
+    "report_path": "outputs/技能分析/2026-02-06_find-skills.md"
+  },
+  {
+    "skill_name": "inference-sh/skills/agentic-browser",
+    "analysis_date": "2026-02-06",
+    "source_url": "https://skills.sh/inference-sh/skills/agentic-browser",
+    "report_path": "outputs/技能分析/2026-02-06_agentic-browser.md"
+  },
+  {
+    "skill_name": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "analysis_date": "2026-02-06",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
+    "report_path": "outputs/技能分析/2026-02-06_vercel-react-best-practices.md"
+  },
+  {
+    "skill_name": "anthropics/skills/frontend-design",
+    "analysis_date": "2026-02-06",
+    "source_url": "https://skills.sh/anthropics/skills/frontend-design",
+    "report_path": "outputs/技能分析/2026-02-06_frontend-design.md"
+  },
+  {
+    "skill_name": "vercel-labs/agent-skills/web-design-guidelines",
+    "analysis_date": "2026-02-07",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
+    "report_path": "outputs/技能分析/2026-02-07_web-design-guidelines.md"
+  },
+  {
+    "skill_name": "remotion-dev/skills/remotion-best-practices",
+    "analysis_date": "2026-02-07",
+    "source_url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
+    "report_path": "outputs/技能分析/2026-02-07_remotion-best-practices.md"
+  }
+]
