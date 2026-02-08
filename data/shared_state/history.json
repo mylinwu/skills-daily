@@ -34,5 +34,11 @@
     "analysis_date": "2026-02-07",
     "source_url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
     "report_path": "outputs/技能分析/2026-02-07_remotion-best-practices.md"
+  },
+  {
+    "skill_name": "browser-use/browser-use/browser-use",
+    "analysis_date": "2026-02-08",
+    "source_url": "https://skills.sh/browser-use/browser-use/browser-use",
+    "report_path": "outputs/2026-02-08_browser-use.md"
   }
 ]
