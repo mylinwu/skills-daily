@@ -40,5 +40,17 @@
     "analysis_date": "2026-02-08",
     "source_url": "https://skills.sh/browser-use/browser-use/browser-use",
     "report_path": "outputs/2026-02-08_browser-use.md"
+  },
+  {
+    "skill_name": "inferencesh/skills/agent-tools",
+    "analysis_date": "2026-02-09",
+    "source_url": "https://skills.sh/inferencesh/skills/agent-tools",
+    "report_path": "outputs/2026-02-09_agent-tools.md"
+  },
+  {
+    "skill_name": "inferencesh/skills/agent-browser",
+    "analysis_date": "2026-02-09",
+    "source_url": "https://skills.sh/inferencesh/skills/agent-browser",
+    "report_path": "outputs/2026-02-09_agent-browser.md"
   }
 ]
