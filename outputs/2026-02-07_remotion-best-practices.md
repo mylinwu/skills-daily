@@ -165,3 +165,8 @@ const calculateMetadata: CalculateMetadataFunction<MyProps> = async ({props}) =>
 4. **参数化视频支持**：通过 Zod schema 实现动态内容生成
 
 适合需要**程序化视频生成**、**批量内容生产**、**数据驱动动画**的开发场景。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-07_remotion-best-practices.md

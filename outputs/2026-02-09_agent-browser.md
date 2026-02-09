@@ -120,3 +120,8 @@ SKILL.md 的提示词设计有几个巧妙之处：
 ## 总结
 
 agent-browser 是一个设计精良的浏览器自动化技能，其核心创新在于 **@e 引用系统**——将复杂的 DOM 元素定位简化为简短编号，让 AI Agent 无需理解 HTML 结构即可操作网页。通过 inference.sh 的云端 Playwright 实例，Agent 获得了完整的浏览器能力，同时 `allowed-tools` 机制确保了安全边界。整体是一个"提示词驱动 + CLI 调用"的典型 Skills 架构。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-09_agent-browser.md

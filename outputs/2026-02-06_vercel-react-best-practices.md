@@ -165,3 +165,8 @@ import { Button } from '@/components/Button'
 ## 总结
 
 `vercel-react-best-practices` 是一个典型的**结构化知识库型技能**，由 Vercel 工程团队维护。它通过三层文档架构（索引 → 完整文档 → 独立规则文件）和统一的"错误 vs 正确"对比格式，为 AI Agent 提供了一套系统化的 React/Next.js 性能优化知识。与简单的提示词引导不同，这个技能的价值在于其**深度和广度** — 57 条规则覆盖了从关键的瀑布流消除到细粒度的 JS 性能优化，并按影响程度排列优先级，让 Agent 能做出有依据的优化决策。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_vercel-react-best-practices.md

@@ -115,3 +115,8 @@ description: Helps users discover and install agent skills when they ask questio
 ## 总结
 
 `find-skills` 是一个典型的**提示词引导型技能**，通过一份精心设计的 Markdown 文档，教会 AI Agent 如何帮用户搜索和安装其他技能。它没有任何代码逻辑，完全依赖结构化的自然语言指令来驱动 Agent 行为。作为 Skills 生态的"门户技能"，它的设计简洁而高效，是理解 Skills 机制的最佳入门案例。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_find-skills.md

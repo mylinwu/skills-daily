@@ -114,3 +114,8 @@ open URL → state (获取元素索引列表) → 通过索引执行交互 (clic
 - AI Agent 功能需要 API Key
 - 远程浏览器模式需要配置 `BROWSER_USE_API_KEY`
 - 真实浏览器模式需要预先安装 Chrome
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-08_browser-use.md

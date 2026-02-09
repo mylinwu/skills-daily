@@ -140,3 +140,8 @@ AI：[直接读取 Button.tsx] → 获取指南 → 输出可访问性问题
 ---
 
 **结论**：这是一个设计精良的**外部规则引用型技能**，通过将行为定义与规则内容分离，实现了灵活性和可维护性的平衡。其核心价值在于将 Vercel 团队的设计智慧转化为可自动执行的审查流程。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-07_web-design-guidelines.md

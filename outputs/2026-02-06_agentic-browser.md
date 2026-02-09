@@ -182,3 +182,8 @@ web agent, surf internet, record video
 ## 总结
 
 Agentic Browser 是一个设计精良的浏览器自动化技能，通过创新的 `@e` 引用系统和完善的会话管理，为 AI 代理提供了强大的网页交互能力。其模块化的文档设计和丰富的功能模板，使其既适合简单场景的快速使用，也能满足复杂企业级应用的需求。该技能代表了 AI 代理工具生态中的重要基础设施。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_agentic-browser.md

@@ -121,3 +121,8 @@ frontend-design/
 ## 总结
 
 Frontend Design技能是一个高质量的前端设计指导工具，通过结构化的设计思维、详细的美学指导和反同质化的设计理念，帮助AI创建真正独特、专业的前端界面。其核心价值在于将设计从"AI生成"的通用模式中解放出来，追求真正有创意和个性化的设计解决方案。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_frontend-design.md

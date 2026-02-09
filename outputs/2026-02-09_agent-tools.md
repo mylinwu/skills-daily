@@ -55,3 +55,8 @@ agent-tools/
    - 可将输出 URL 接入后续处理（如媒体合成、社媒发布），形成端到端自动化链路。
 
 整体上，这个技能的核心价值是**把大量 AI 能力整合为统一的 CLI 运行接口**，用「发现 → 样例 → 运行 → 任务追踪」的标准化流程降低多模型接入成本，适合构建自动化、批量化 AI 工作流。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-09_agent-tools.md
