@@ -52,5 +52,11 @@
     "analysis_date": "2026-02-09",
     "source_url": "https://skills.sh/inferencesh/skills/agent-browser",
     "report_path": "outputs/2026-02-09_agent-browser.md"
+  },
+  {
+    "skill_name": "vercel-labs/agent-skills/vercel-composition-patterns",
+    "analysis_date": "2026-02-09",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns",
+    "report_path": "outputs/2026-02-09_vercel-composition-patterns.md"
   }
 ]
