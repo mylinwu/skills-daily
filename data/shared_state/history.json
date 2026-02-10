@@ -1,62 +1,79 @@
 [
   {
-    "skill_name": "vercel-labs/skills/find-skills",
+    "skill_id": "vercel-labs/skills/find-skills",
+    "skill_name": "find-skills",
     "analysis_date": "2026-02-06",
     "source_url": "https://skills.sh/vercel-labs/skills/find-skills",
     "report_path": "outputs/技能分析/2026-02-06_find-skills.md"
   },
   {
-    "skill_name": "inference-sh/skills/agentic-browser",
+    "skill_id": "inference-sh/skills/agentic-browser",
+    "skill_name": "agentic-browser",
     "analysis_date": "2026-02-06",
     "source_url": "https://skills.sh/inference-sh/skills/agentic-browser",
     "report_path": "outputs/技能分析/2026-02-06_agentic-browser.md"
   },
   {
-    "skill_name": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "skill_id": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "skill_name": "vercel-react-best-practices",
     "analysis_date": "2026-02-06",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
     "report_path": "outputs/技能分析/2026-02-06_vercel-react-best-practices.md"
   },
   {
-    "skill_name": "anthropics/skills/frontend-design",
+    "skill_id": "anthropics/skills/frontend-design",
+    "skill_name": "frontend-design",
     "analysis_date": "2026-02-06",
     "source_url": "https://skills.sh/anthropics/skills/frontend-design",
     "report_path": "outputs/技能分析/2026-02-06_frontend-design.md"
   },
   {
-    "skill_name": "vercel-labs/agent-skills/web-design-guidelines",
+    "skill_id": "vercel-labs/agent-skills/web-design-guidelines",
+    "skill_name": "web-design-guidelines",
     "analysis_date": "2026-02-07",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
     "report_path": "outputs/技能分析/2026-02-07_web-design-guidelines.md"
   },
   {
-    "skill_name": "remotion-dev/skills/remotion-best-practices",
+    "skill_id": "remotion-dev/skills/remotion-best-practices",
+    "skill_name": "remotion-best-practices",
     "analysis_date": "2026-02-07",
     "source_url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
     "report_path": "outputs/技能分析/2026-02-07_remotion-best-practices.md"
   },
   {
-    "skill_name": "browser-use/browser-use/browser-use",
+    "skill_id": "browser-use/browser-use/browser-use",
+    "skill_name": "browser-use",
     "analysis_date": "2026-02-08",
     "source_url": "https://skills.sh/browser-use/browser-use/browser-use",
     "report_path": "outputs/2026-02-08_browser-use.md"
   },
   {
-    "skill_name": "inferencesh/skills/agent-tools",
+    "skill_id": "inferencesh/skills/agent-tools",
+    "skill_name": "agent-tools",
     "analysis_date": "2026-02-09",
     "source_url": "https://skills.sh/inferencesh/skills/agent-tools",
     "report_path": "outputs/2026-02-09_agent-tools.md"
   },
   {
-    "skill_name": "inferencesh/skills/agent-browser",
+    "skill_id": "inferencesh/skills/agent-browser",
+    "skill_name": "agent-browser",
     "analysis_date": "2026-02-09",
     "source_url": "https://skills.sh/inferencesh/skills/agent-browser",
     "report_path": "outputs/2026-02-09_agent-browser.md"
   },
   {
-    "skill_name": "vercel-labs/agent-skills/vercel-composition-patterns",
+    "skill_id": "vercel-labs/agent-skills/vercel-composition-patterns",
+    "skill_name": "vercel-composition-patterns",
     "analysis_date": "2026-02-09",
     "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns",
     "report_path": "outputs/2026-02-09_vercel-composition-patterns.md"
+  },
+  {
+    "skill_id": "anthropics/skills/skill-creator",
+    "skill_name": "skill-creator",
+    "analysis_date": "2026-02-10",
+    "source_url": "https://skills.sh/anthropics/skills/skill-creator",
+    "report_path": "outputs/2026-02-10_skill-creator.md"
   }
 ]
