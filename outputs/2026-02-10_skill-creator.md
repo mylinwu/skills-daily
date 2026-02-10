@@ -108,3 +108,8 @@ Skill Creator 本质上是一份**结构化的方法论文档**，它通过：
 4. **脚本工具链**：引用 `init_skill.py` 和 `package_skill.py` 两个外部脚本完成初始化和打包
 
 它没有复杂的脚本逻辑，而是用精心组织的文本指令将 Claude 的通用能力引导到"技能创建"这个特定领域，是一个典型的**提示词工程驱动**的技能。
+
+
+---
+
+**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-10_skill-creator.md
