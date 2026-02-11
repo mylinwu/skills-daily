@@ -82,5 +82,12 @@
     "analysis_date": "2026-02-10",
     "source_url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
     "report_path": "outputs/2026-02-10_ui-ux-pro-max.md"
+  },
+  {
+    "skill_id": "obra/superpowers/brainstorming",
+    "skill_name": "brainstorming",
+    "analysis_date": "2026-02-11",
+    "source_url": "https://skills.sh/obra/superpowers/brainstorming",
+    "report_path": "outputs/2026-02-11_brainstorming.md"
   }
 ]
