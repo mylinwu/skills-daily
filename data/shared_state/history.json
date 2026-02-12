@@ -89,5 +89,26 @@
     "analysis_date": "2026-02-11",
     "source_url": "https://skills.sh/obra/superpowers/brainstorming",
     "report_path": "outputs/2026-02-11_brainstorming.md"
+  },
+  {
+    "skill_id": "coreyhaines31/marketingskills/content-strategy",
+    "skill_name": "content-strategy",
+    "analysis_date": "2026-02-12",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/content-strategy",
+    "report_path": "outputs/2026-02-12_content-strategy.md"
+  },
+  {
+    "skill_id": "coreyhaines31/marketingskills/product-marketing-context",
+    "skill_name": "product-marketing-context",
+    "analysis_date": "2026-02-12",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context",
+    "report_path": "outputs/2026-02-12_product-marketing-context.md"
+  },
+  {
+    "skill_id": "vercel-labs/agent-skills/vercel-react-native-skills",
+    "skill_name": "vercel-react-native-skills",
+    "analysis_date": "2026-02-12",
+    "source_url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
+    "report_path": "outputs/2026-02-12_vercel-react-native-skills.md"
   }
 ]
