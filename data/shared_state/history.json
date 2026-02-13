@@ -117,5 +117,19 @@
     "analysis_date": "2026-02-13",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing",
     "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-13_copy-editing.md"
+  },
+  {
+    "skill_id": "coreyhaines31/marketingskills/form-cro",
+    "skill_name": "form-cro",
+    "analysis_date": "2026-02-13",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/form-cro",
+    "report_path": "outputs/2026-02-13_form-cro.md"
+  },
+  {
+    "skill_id": "wshobson/agents/nodejs-backend-patterns",
+    "skill_name": "nodejs-backend-patterns",
+    "analysis_date": "2026-02-13",
+    "source_url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns",
+    "report_path": "outputs/2026-02-13_nodejs-backend-patterns.md"
   }
 ]
