@@ -102,4 +102,4 @@ brainstorming/
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-11_brainstorming.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-11_brainstorming.md

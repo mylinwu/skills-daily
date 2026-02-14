@@ -125,4 +125,4 @@ Frontend Design技能是一个高质量的前端设计指导工具，通过结�
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_frontend-design.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_frontend-design.md

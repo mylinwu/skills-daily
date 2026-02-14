@@ -89,4 +89,4 @@ content-strategy/
 
 ---
 
-**📄 文档地址**: <https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-12_content-strategy.md>
+文档地址: <https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-12_content-strategy.md>

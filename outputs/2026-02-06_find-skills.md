@@ -119,4 +119,4 @@ description: Helps users discover and install agent skills when they ask questio
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_find-skills.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_find-skills.md

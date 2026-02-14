@@ -186,4 +186,4 @@ Agentic Browser 是一个设计精良的浏览器自动化技能，通过创新�
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_agentic-browser.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_agentic-browser.md

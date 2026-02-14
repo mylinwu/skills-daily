@@ -123,4 +123,4 @@ agent-browser 是一个设计精良的浏览器自动化技能，其核心创新
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-09_agent-browser.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-09_agent-browser.md

@@ -122,4 +122,4 @@ referral-program/
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_referral-program.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_referral-program.md

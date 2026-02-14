@@ -112,4 +112,4 @@ Skill Creator 本质上是一份**结构化的方法论文档**，它通过：
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-10_skill-creator.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-10_skill-creator.md

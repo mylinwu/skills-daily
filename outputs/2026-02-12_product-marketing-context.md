@@ -89,4 +89,4 @@ Product Marketing Context 是一个**基础设施型技能**，通过结构化�
 
 ---
 
-**📄 文档地址**: <https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-12_product-marketing-context.md>
+文档地址: <https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-12_product-marketing-context.md>

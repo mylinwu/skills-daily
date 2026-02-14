@@ -108,4 +108,4 @@ src/
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_nodejs-backend-patterns.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_nodejs-backend-patterns.md

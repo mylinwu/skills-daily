@@ -270,4 +270,4 @@ ui-ux-pro-max 是目前见过的最复杂、最完善的技能之一，其数据
 
 ---
 
-**📄 文档地址**: /Users/admin/Documents/MyProject/agents-space/skills-daily/outputs/2026-02-10_ui-ux-pro-max.md
+文档地址: /Users/admin/Documents/MyProject/agents-space/skills-daily/outputs/2026-02-10_ui-ux-pro-max.md

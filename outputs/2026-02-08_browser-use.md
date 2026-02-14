@@ -118,4 +118,4 @@ open URL → state (获取元素索引列表) → 通过索引执行交互 (clic
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-08_browser-use.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-08_browser-use.md

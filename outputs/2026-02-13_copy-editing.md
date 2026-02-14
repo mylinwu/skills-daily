@@ -113,4 +113,4 @@ copy-editing 技能通过一套严谨的七次扫描方法论，将文案编辑�
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_copy-editing.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-13_copy-editing.md

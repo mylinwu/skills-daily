@@ -169,4 +169,4 @@ import { Button } from '@/components/Button'
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_vercel-react-best-practices.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-06_vercel-react-best-practices.md

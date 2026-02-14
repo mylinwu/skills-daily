@@ -144,4 +144,4 @@ AI：[直接读取 Button.tsx] → 获取指南 → 输出可访问性问题
 
 ---
 
-**📄 文档地址**: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-07_web-design-guidelines.md
+文档地址: https://github.com/mylinwu/skills-daily/tree/main/outputs/2026-02-07_web-design-guidelines.md
