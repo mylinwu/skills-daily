@@ -131,5 +131,12 @@
     "analysis_date": "2026-02-13",
     "source_url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns",
     "report_path": "outputs/2026-02-13_nodejs-backend-patterns.md"
+  },
+  {
+    "skill_id": "coreyhaines31/marketingskills/referral-program",
+    "skill_name": "referral-program",
+    "analysis_date": "2026-02-13",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/referral-program",
+    "report_path": "outputs/2026-02-13_referral-program.md"
   }
 ]
