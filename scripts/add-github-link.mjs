@@ -39,7 +39,7 @@ try {
 
 ---
 
-**📄 文档地址**: ${githubUrl}`;
+文档地址: ${githubUrl}`;
 
   content += footer;
 

@@ -138,5 +138,19 @@
     "analysis_date": "2026-02-13",
     "source_url": "https://skills.sh/coreyhaines31/marketingskills/referral-program",
     "report_path": "outputs/2026-02-13_referral-program.md"
+  },
+  {
+    "skill_id": "madteacher/mad-agents-skills/flutter-animations",
+    "skill_name": "flutter-animations",
+    "analysis_date": "2026-02-14",
+    "source_url": "https://skills.sh/madteacher/mad-agents-skills/flutter-animations",
+    "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-14_flutter-animations.md"
+  },
+  {
+    "skill_id": "expo/skills/expo-tailwind-setup",
+    "skill_name": "expo-tailwind-setup",
+    "analysis_date": "2026-02-14",
+    "source_url": "https://skills.sh/expo/skills/expo-tailwind-setup",
+    "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-14_expo-tailwind-setup.md"
   }
 ]
