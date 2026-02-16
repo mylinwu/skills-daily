@@ -152,5 +152,12 @@
     "analysis_date": "2026-02-14",
     "source_url": "https://skills.sh/expo/skills/expo-tailwind-setup",
     "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-14_expo-tailwind-setup.md"
+  },
+  {
+    "skill_id": "squirrelscan/skills/audit-website",
+    "skill_name": "audit-website",
+    "analysis_date": "2026-02-15",
+    "source_url": "https://skills.sh/squirrelscan/skills/audit-website",
+    "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-15_audit-website.md"
   }
 ]
