@@ -159,5 +159,12 @@
     "analysis_date": "2026-02-15",
     "source_url": "https://skills.sh/squirrelscan/skills/audit-website",
     "report_path": "/Users/admin/Documents/GitHub/skills-daily/outputs/2026-02-15_audit-website.md"
+  },
+  {
+    "skill_id": "coreyhaines31/marketingskills/seo-audit",
+    "skill_name": "seo-audit",
+    "analysis_date": "2026-02-16",
+    "source_url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
+    "report_path": "outputs/2026-02-16_seo-audit.md"
   }
 ]
